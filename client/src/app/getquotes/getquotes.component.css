@@ -1,0 +1,42 @@
+
+.field {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+.quote {
+    width: 250px;
+}
+.vote {
+    width: 50px;
+}
+p{
+    margin: 5px;
+}
+.col3 {
+    width: 400px;
+}
+.row {
+    padding: 5px;
+    border: 1px solid black;
+
+}
+.header {
+    padding: 5px;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+.showAuthors {
+    width: 500px;
+}
+.btn {
+    width: 80px;
+    height: 25px;
+    background-color: aliceblue;
+    margin-left: 5px;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: top;
+}
